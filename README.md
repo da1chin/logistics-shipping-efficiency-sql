@@ -5,7 +5,7 @@
 This project analyzes public shipment data to detect reasons for delivery delays, based on time of the day and traffic status. The goal with the project is to demonstrate SQL skills in aggregating, understanding and analyzing logistics data.
 
 ## Dataset
-   - Source: Dataset was
+   - Source: Dataset sourced from Kaggle for the purpose of analyzing and visualizing shipping logistics.
    - Columns: Timestamp, Logistics_Delay, Traffic_Status, Waiting_Time, etc.
 
 ## Analysis
