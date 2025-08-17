@@ -10,7 +10,7 @@ This project analyzes public shipment data to detect reasons for delivery delays
 
 ## Analysis
    1. Time of day impact
-   - Afternoon shipments had the highest delay percentage (61.8%).
+   - Afternoon shipments had the highest delay percentage (61.8%), indicating potential inefficiencies during peak hours.
    - Evening, morning and night shipments showed similar levels (~55%)
    2. Traffic status impact
    - Average waiting time is not affected by traffic status.
@@ -26,5 +26,8 @@ This project analyzes public shipment data to detect reasons for delivery delays
 
 ## Next steps of the project
    - Expanding analysis to cover delay reasons, routes, trends, etc. 
-   - Building a Power BI dashboard. 
+   - Building a Power BI dashboard.
+
+## Conclusion
+Implementing new traffic management strategies during peak hours could potentially reduce delays.
  
