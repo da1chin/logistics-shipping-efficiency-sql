@@ -20,9 +20,9 @@ This project analyzes public shipment data to detect reasons for delivery delays
    - DBeaver as query tool
 
 ## How to use
-   1. Load the dataset (smart-logistics-dataset.csv)
-   2. Run the queries from 'Project-Delays.sql'.
-   3. Compare results with the example outputs in 'outputs/'.
+   1. Load the dataset (logistics-shipment-data.csv)
+   2. Run the queries from 'Queries', such as 'time-of-day.sql' or 'traffic-status'.
+   3. Compare results with the example results in 'outputs/'.
 
 ## Next steps of the project
    - Expanding analysis to cover delay reasons, routes, trends, etc. 
